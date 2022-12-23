@@ -1,6 +1,5 @@
-# Project-Ecommerce-and-cart-management-Group38
+# Project-Ecommerce-and-cart-management
 
-#Plutonium
 ## Project - Products Management
 
 ### Key points
